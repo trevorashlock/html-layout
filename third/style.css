@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+}
+
+.header {
+  background-color: #D8D8D8;
+  width: 100%;
+  padding: 20px;
+  margin: auto;
+  
+  
+}
+.blue-box {
+  height: 60px;
+  width: 55px;
+  background-color: #4A90E2;
+}
+
+.size {
+	height: 130px;
+	width: 100%;
+}
+.col1 {
+	background-color: #4A90E2;
+}
+.col2 {
+	background-color: #50E3C2;
+}
+.col3 {
+	background-color: #B8E986;
+}
+.col4 {
+	background-color: #F8E71C;
+}
+.text-box {
+	height: 250px;
+	background-color: white;
+	padding: 70px;
+
+}
+p {
+	line-height: 30px;
+	font-size: 22px;
+	font-family: Helvetica;
+	font-weight: lighter;
+
+}

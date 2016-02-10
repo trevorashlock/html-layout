@@ -1,0 +1,39 @@
+* {
+
+	margin: 0;
+}
+
+.left {
+  background-color: #4A90E2;
+  width: 33.3%;
+  height: 100vh;
+  margin: auto;
+  float: left;
+}
+.middle {
+  background-color: #50E3C2;
+  width: 33.3%;
+  height: 100vh;
+  float: left;
+  
+}
+.right{
+  background-color: #B8E986;
+  width: 33.3%;
+  height: 100vh;
+  float: left;
+}
+.image-placeholder {
+  background-color: red;
+  height: 25%;
+  width: 100vh;
+  position: fixed;
+  bottom: 0;
+}
+p {
+  padding-left: 20%;
+  padding-top: 65px;
+  color: white;
+  font-size: 30px;
+
+}
